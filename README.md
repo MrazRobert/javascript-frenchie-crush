@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/github/languages/top/MrazRobert/javascript-frenchie-crush.svg" >
 </p>
 
-<h2 align="center"><a href="https://javascript-frenchie-crush.netlify.app/">Live Demo</a></h2>
+<h2 align="center"><a href="https://mr85-javascript-frenchiecrush.netlify.app/">Live Demo</a></h2>
 
 ## Description
 
